@@ -1,2 +1,1 @@
-# GONdOLA
-GONdOLA - Gene ONtOlogy Lethality Annotator
+# GONdOLA - Gene ONtOlogy Lethality Annotator
