@@ -145,3 +145,12 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Gene data and other bits and bobs
+*.tab
+*.sgd
+*.csv
+*.pkl
+*.xlsx
+*.pdf
+*.txt
